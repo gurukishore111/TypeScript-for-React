@@ -1,0 +1,10 @@
+Why Typescript ?
+
+    * Strong typing
+    * Object-oriented features
+    * Complie-time errors
+    * Great tooling
+
+    
+               Transiple
+Typescript   --------------->  javascript
